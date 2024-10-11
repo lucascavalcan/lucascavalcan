@@ -28,9 +28,7 @@
             </ul>
             learning
             <ul style="list-style-type: none; padding-left: 0;">
-                – golang.go<br/>
-                – sonarqube<br/>
-                – trivy
+                – spring boot
             </ul>
         </td>
     </tr>
